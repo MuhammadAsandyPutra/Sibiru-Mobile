@@ -1,16 +1,81 @@
-# sibiru_dev
+Here’s a more professional and polished version of your project README for **sibiru_dev**:
 
-A new Flutter project.
+---
+
+# Sibiru Dev
+
+Sibiru Dev is a Flutter-based mobile application designed to deliver a modern, scalable, and user-friendly digital experience. This project serves as the foundation for building robust cross-platform applications using best practices in UI/UX design and clean architecture.
+
+## Overview
+
+This application is developed using the Flutter framework, enabling high-performance mobile solutions for both Android and iOS platforms from a single codebase. The project emphasizes maintainability, modular structure, and efficient state management.
+
+## Features
+
+* Clean and structured project architecture
+* Responsive and adaptive UI design
+* Scalable codebase for future enhancements
+* Integration-ready for APIs and backend services
+* Optimized performance across devices
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, ensure that your development environment is properly set up for Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter SDK (latest stable version)
+* Dart SDK
+* Android Studio / Visual Studio Code
+* Emulator or physical device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/sibiru_dev.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd sibiru_dev
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## Project Structure
+
+The project follows a modular and scalable structure to ensure clean separation of concerns. Key directories include:
+
+* `lib/core` – Core utilities, themes, and shared configurations
+* `lib/features` – Feature-based modules (UI, logic, data)
+* `lib/widgets` – Reusable UI components
+* `lib/services` – API and external service integrations
+
+## Resources
+
+For further guidance on Flutter development:
+
+* Official Documentation: [https://docs.flutter.dev/](https://docs.flutter.dev/)
+* Flutter Cookbook: [https://docs.flutter.dev/cookbook](https://docs.flutter.dev/cookbook)
+* Flutter Codelabs: [https://docs.flutter.dev/get-started/codelab](https://docs.flutter.dev/get-started/codelab)
+
+## Contributing
+
+Contributions are welcome. Please follow standard development practices and ensure code quality before submitting a pull request.
+
+## License
+
+This project is intended for development and research purposes. Licensing terms can be adjusted based on project requirements.
