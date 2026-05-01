@@ -1,6 +1,3 @@
-Here’s a more professional and polished version of your project README for **sibiru_dev**:
-
----
 
 # Sibiru Dev
 
