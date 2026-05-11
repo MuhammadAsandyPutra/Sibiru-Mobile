@@ -226,10 +226,10 @@ class _TrackingCard extends StatelessWidget {
                 ),
               ),
               const Spacer(),
-              Text(
-                '${(progress * 100).round()}%',
-                style: const TextStyle(fontWeight: FontWeight.w700),
-              ),
+              // Text(
+              //   '${(progress * 100).round()}%',
+              //   style: const TextStyle(fontWeight: FontWeight.w700),
+              // ),
             ],
           ),
           const SizedBox(height: 12),

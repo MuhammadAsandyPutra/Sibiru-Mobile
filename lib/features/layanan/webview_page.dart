@@ -33,7 +33,14 @@ class _LayananWebViewPageState extends State<LayananWebViewPage> {
               setState(() => _isLoading = true);
             }
           },
-          onPageFinished: (_) {
+          onPageFinished: (_) async {
+            // Hide Menu Controller - Asandy || 08/05/2026
+            await _controller.runJavaScript("""
+              document.getElementById('masthead')?.remove();
+              document.body.style.marginTop = '0px';
+              document.body.style.paddingTop = '0px';
+            """);
+
             if (mounted) {
               setState(() => _isLoading = false);
             }
