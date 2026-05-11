@@ -1,6 +1,6 @@
-# Sibiru Dev
+# Sibiru Mobile
 
-Sibiru Dev is a Flutter-based mobile application designed to deliver a modern, scalable, and user-friendly digital experience. This project serves as the foundation for building robust cross-platform applications using best practices in UI/UX design and clean architecture.
+Sibiru Mobile is a Flutter-based mobile application designed to deliver a modern, scalable, and user-friendly digital experience. This project serves as the foundation for building robust cross-platform applications using best practices in UI/UX design and clean architecture.
 
 ## Overview
 
