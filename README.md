@@ -75,3 +75,5 @@ Contributions are welcome. Please follow standard development practices and ensu
 ## License
 
 This project is intended for development and research purposes. Licensing terms can be adjusted based on project requirements.
+
+--Asandy.
